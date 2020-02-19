@@ -1,1 +1,1 @@
-# node_module
+This repository basically focuses on creating node.js modules and using it in other applications.
